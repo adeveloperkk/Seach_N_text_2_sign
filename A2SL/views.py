@@ -1,3 +1,8 @@
+#We Promise End to End Guidance in Your Projects
+#This Project is created by developerkk
+#For Information visit developerkk.in
+#We are Providing Projects at very valuable Price
+#We are Also Helping You in fixing Error and run your Project
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm

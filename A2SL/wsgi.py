@@ -1,11 +1,8 @@
-"""
-WSGI config for A2SL project.
-
-It exposes the WSGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/3.0/howto/deployment/wsgi/
-"""
+#We Promise End to End Guidance in Your Projects
+#This Project is created by developerkk
+#For Information visit developerkk.in
+#We are Providing Projects at very valuable Price
+#We are Also Helping You in fixing Error and run your Project
 
 import os
 
